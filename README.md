@@ -15,19 +15,43 @@ This Lab is designed (for lab testing purposes only!!) to replicates a persisten
 
         Harvests Outlook email database files (.pst/.ost)
 
-        Collects running processes (could reveal sensitive applications)
+        Collects running processes 
 
-        Shows network connections (could reveal private services)
+        Shows network connections 
+
+        
+
+ To learn Defensive you must learn offensive. All information is for training purposes and to streangthen our forensics as the defenders of the innocent.
+            Team BLUE
+
+        .
+        .
+        .
+        .
+        .
+        .
+        .
+        .
+
+
+
+
+
+
+
+
+
+
 
     Expansion Potential:
 
-        The script could easily be modified to:
+        O script pódese modificar facilmente para:
 
-            Send harvested data to a remote server
+            Enviar os datos recollidos a un servidor remoto
 
-            Install additional malware
+            Instalar malware adicional
 
-            Capture screenshots or keystrokes
+            Captura capturas de pantalla ou pulsacións de teclas
 
             To learn Defensive you must learn offensive. All information is for training purposes and to streangthen our forensics as the defenders of the innocent.
             Team BLUE
