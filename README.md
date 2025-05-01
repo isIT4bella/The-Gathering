@@ -24,34 +24,6 @@ This Lab is designed (for lab testing purposes only!!) to replicates a persisten
  To learn Defensive you must learn offensive. All information is for training purposes and to streangthen our forensics as the defenders of the innocent.
             Team BLUE
 
-        .
-        .
-        .
-        .
-        .
-        .
-        .
-        .
+        
 
 
-
-
-
-
-
-
-
-
-
-    Expansion Potential:
-
-        O script pódese modificar facilmente para:
-
-            Enviar os datos recollidos a un servidor remoto
-
-            Instalar malware adicional
-
-            Captura capturas de pantalla ou pulsacións de teclas
-
-            To learn Defensive you must learn offensive. All information is for training purposes and to streangthen our forensics as the defenders of the innocent.
-            Team BLUE
